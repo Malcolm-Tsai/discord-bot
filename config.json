@@ -1,0 +1,6 @@
+{
+  "bot_name": "",
+  "google_api_key": "set and found here (create your own project and get it's api key): https://code.google.com/apis/console",
+  "cse_id": "set and found here (create your own project and get it's cse_id/client code): https://code.google.com/apis/console",
+  "discord_bot_token": "found here once bot is created: https://discord.com/developers/applications/"
+}

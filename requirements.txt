@@ -1,0 +1,5 @@
+discord.py==1.3.2
+googletrans==2.4.0
+youtube-data-api==0.0.17
+google-api-python-client==1.8.0
+aiohttp==3.6.2
