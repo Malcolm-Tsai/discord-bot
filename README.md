@@ -11,7 +11,7 @@ To do so you must have a discord account and then you must follow these steps, a
 
 **Next, download the project and change directory into the project directory at the first level and run the requirements.txt like this:** pip install -r requirements.txt
 
-**Next go to https://code.google.com/apis/console while logged into a google account and create a project and retrieve it's API key and console id (or cse_id)
+**Next go to https://code.google.com/apis/console while logged into a google account and create a project and retrieve it's API key and console id (or cse_id)**
 
 Finally, in config.json in the project folder, edit the values of the config according to A) what you want to name the bot, B) the google api key you created C) the google console id you created and D) the discord bot token you created.
 
