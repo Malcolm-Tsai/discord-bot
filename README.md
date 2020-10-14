@@ -9,6 +9,8 @@ Ensure you have Python 3 correctly installed on your host device with pip
 **Create a bot on the discord developer portal**.
 To do so you must have a discord account and then you must follow these steps, and retrieve your token (5th picture): https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
+Ensure bot has full permissions for simplicity, invite the bot to your server
+
 **Next, download the project and change directory into the project directory at the first level and run the requirements.txt like this:** pip install -r requirements.txt
 
 **Next go to https://code.google.com/apis/console while logged into a google account and create a project and retrieve it's API key and console id (or cse_id)**
